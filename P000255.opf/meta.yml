@@ -1,0 +1,38 @@
+ebook_metadata:
+  title: ༄༅། །སྤྲུལ་པའི་སྐྱེས་མཆོག་མི་ཕམ་མགོན་པོས་དྲི་བ་སྔ་ཕྱིར་མཛད་པ་རྣམས་ཕྱོགས་གཅིག་ཏུ་བཀོད་པ་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། མཁས་གྲུབ་ཆེན་པོ་རྩེ་ལེ་སྣ་ཚོགས་རང་གྲོལ།
+  sku: TSD-TSE-09
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - quotation
+  - yigchung
+web_metadata:
+  title:
+    en: A Collection of Answers to the Questions of the Sublime Mipham Gonpo
+    bo: སྤྲུལ་པའི་སྐྱེས་མཆོག་མི་ཕམ་མགོན་པོས་དྲི་བ་སྔ་ཕྱིར་མཛད་པ་རྣམས་ཕྱོགས་གཅིག་ཏུ་བཀོད་པ་བཞུགས་སོ།།
+  collection:
+    en: Tsele Natsok Rangdrol Series–  Book 9
+    bo: རྩེ་ལེ་སྣ་ཚོགས་རང་གྲོལ།–  དེབ། ༩
+  author:
+    en: Tsele Natsok Rangdrol
+    bo: རྩེ་ལེ་སྣ་ཚོགས་རང་གྲོལ།
+  pusblisher:
+    en: Tsadra Foundation Publishing
+    bo: ཙཱ་འདྲ་ཐེབས་རྩ་ཚོགས་པ།
+  sku: TSD-TSE-09
+  category:
+    en: Pith Instructions
+    bo: མན་ངག
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: TSD-TSE-09.epub
+  description:
+    en: ''
+    bo: ''
