@@ -1,15 +1,17 @@
-ebook_metadata:
+id: P000255
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །སྤྲུལ་པའི་སྐྱེས་མཆོག་མི་ཕམ་མགོན་པོས་དྲི་བ་སྔ་ཕྱིར་མཛད་པ་རྣམས་ཕྱོགས་གཅིག་ཏུ་བཀོད་པ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། མཁས་གྲུབ་ཆེན་པོ་རྩེ་ལེ་སྣ་ཚོགས་རང་གྲོལ།
-  sku: TSD-TSE-09
   layers:
   - book_title
   - author
   - chapter_title
   - quotation
   - yigchung
+  id: TSD-TSE-09
 web_metadata:
   title:
     en: A Collection of Answers to the Questions of the Sublime Mipham Gonpo
